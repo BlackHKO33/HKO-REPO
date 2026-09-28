@@ -1,0 +1,55 @@
+{
+  "name": "HKO",
+  "badgeLabel": "HKO",
+  "signingKey": "D3F7A02969E0501F4162BE91389D37C14BA8E2DF56FC30FD38B66258FBF03C76",
+  "contact": {
+    "website": "https://github.com/BlackHKO33/HKO-REPO",
+    "discord": ""
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "VCP",
+        "packageName": "eu.kanade.tachiyomi.extension.hko.vcp",
+        "resources": {
+          "apkUrl": "https://github.com/BlackHKO33/HKO-REPO/releases/download/1727672/tachiyomi-hko.vcp-v1.6.1-signed.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/BlackHKO33/HKO-REPO/releases/download/1727672/tachiyomi-hko.vcp-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "913000000002",
+            "name": "VCP",
+            "language": "es",
+            "homeUrl": "https://vercomicsporno.com"
+          }
+        ]
+      },
+      {
+        "name": "VMP",
+        "packageName": "eu.kanade.tachiyomi.extension.hko.vmp",
+        "resources": {
+          "apkUrl": "https://github.com/BlackHKO33/HKO-REPO/releases/download/1727672/tachiyomi-hko.vmp-v1.6.1-signed.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/BlackHKO33/HKO-REPO/releases/download/1727672/tachiyomi-hko.vmp-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "913000000001",
+            "name": "VMP",
+            "language": "es",
+            "homeUrl": "https://vermangasporno.com"
+          }
+        ]
+      }
+    ]
+  }
+}
