@@ -6,17 +6,17 @@
     },
     "jar": {
       "name": "tachiyomi-hko.vcp-v1.6.1.jar",
-      "sha256": "7c937ab656b23eb1414b55e63687081909eb77c981759205d1d98429ce0cd8d0"
+      "sha256": "ab8437aa76ceff4db247bff592c36f305568e3c2e6bafd950747d0f281b95f08"
     }
   },
   "eu.kanade.tachiyomi.extension.hko.vmp": {
     "apk": {
-      "name": "tachiyomi-hko.vmp-v1.6.1-signed.apk",
-      "sha256": "0adc984091e83d44afa4cec5c24de024ec105fdf94c14931a50df7c6a898e7b7"
+      "name": "tachiyomi-hko.vmp-v1.6.1.apk",
+      "sha256": "3bab59aa8cb9722e32800eb2f761c766a91475b1224b2a88ad4a8c2c93b6c4c6"
     },
     "jar": {
       "name": "tachiyomi-hko.vmp-v1.6.1.jar",
-      "sha256": "366b12141ff0c246c6a3582de82c2f768c4bfe88071d2a17795920e9958bdd9f"
+      "sha256": "4647e9c0abae8cc3fc62e1fc548d73ae72367a3ae0826088e64295cde91a5b1e"
     }
   }
 }
