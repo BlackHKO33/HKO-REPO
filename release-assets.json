@@ -6,7 +6,7 @@
     },
     "jar": {
       "name": "tachiyomi-hko.vcp-v1.6.1.jar",
-      "sha256": "9b458e3298f94e3920e34ff87e009a8136d55e5026d4e0fde12de9ff4e1a1b63"
+      "sha256": "4d98ea4a8271a0c74e3a3a2bbd909d312235d6a5965b37eafb474fa3e23bdfe5"
     }
   },
   "eu.kanade.tachiyomi.extension.hko.vmp": {
@@ -16,7 +16,7 @@
     },
     "jar": {
       "name": "tachiyomi-hko.vmp-v1.6.5.jar",
-      "sha256": "b1798fd072eb1eab3206e882f78eed4f98f45c32f006193b43b1cdc3208bdd79"
+      "sha256": "3161c62a7e6e544632bb32fafa9b55a8ac24c60193238527555cf9720554dc03"
     }
   }
 }

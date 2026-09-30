@@ -14,7 +14,7 @@
         "resources": {
           "apkUrl": "https://github.com/BlackHKO33/HKO-REPO/releases/download/1727672/tachiyomi-hko.vcp-v1.6.1-signed.apk",
           "iconUrl": "https://raw.githubusercontent.com/BlackHKO33/HKO-REPO/main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BlackHKO33/HKO-REPO/releases/download/a37a73b/tachiyomi-hko.vcp-v1.6.1.jar"
+          "jarUrl": "https://github.com/BlackHKO33/HKO-REPO/releases/download/0e7d1b9/tachiyomi-hko.vcp-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -35,7 +35,7 @@
         "resources": {
           "apkUrl": "https://github.com/BlackHKO33/HKO-REPO/releases/download/a37a73b/tachiyomi-hko.vmp-v1.6.5-signed.apk",
           "iconUrl": "https://raw.githubusercontent.com/BlackHKO33/HKO-REPO/main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BlackHKO33/HKO-REPO/releases/download/a37a73b/tachiyomi-hko.vmp-v1.6.5.jar"
+          "jarUrl": "https://github.com/BlackHKO33/HKO-REPO/releases/download/0e7d1b9/tachiyomi-hko.vmp-v1.6.5.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106005",
