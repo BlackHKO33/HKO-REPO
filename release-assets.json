@@ -2,11 +2,11 @@
   "eu.kanade.tachiyomi.extension.hko.melapelacomics": {
     "apk": {
       "name": "tachiyomi-hko.melapelacomics-v1.6.1-signed.apk",
-      "sha256": "5ac886b8ef4da821673b733f17c0f0ce50e26b1fcd227b63e20dc6aa0abe59a3"
+      "sha256": "36adfd37ac6bb09989837a305900976cedee26bb5e21a7c89c7edb021d7e7590"
     },
     "jar": {
       "name": "tachiyomi-hko.melapelacomics-v1.6.1.jar",
-      "sha256": "07613285c2f0e15688b23d740ebd6ccfe61d8e81c4855864ddc1cf8109ae9c92"
+      "sha256": "99228dc324bc74c562cc7762e2ce2ade58385ed3bff14f2fd130cc839571fde5"
     }
   },
   "eu.kanade.tachiyomi.extension.hko.vcp": {
@@ -16,7 +16,7 @@
     },
     "jar": {
       "name": "tachiyomi-hko.vcp-v1.6.1.jar",
-      "sha256": "5289827a6dd511611316ada3938112dbdc6b87f04ec37e369f0d168a8d273137"
+      "sha256": "c5845b1399ae4ccdc416e3301029d55856a58c263df8279e71e6ea514e1c70f9"
     }
   },
   "eu.kanade.tachiyomi.extension.hko.vmp": {
@@ -26,7 +26,7 @@
     },
     "jar": {
       "name": "tachiyomi-hko.vmp-v1.6.5.jar",
-      "sha256": "191b7a7c24b7200fd3fb95ff9b725f0b312cb28aeb29fab18d75daa39af19e85"
+      "sha256": "7beaf27d1f3ac8fb9bf8bdae2098cb5e12154ac7f73f86da4b3429ec63b48837"
     }
   }
 }
