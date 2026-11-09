@@ -14,7 +14,7 @@
         "resources": {
           "apkUrl": "https://github.com/BlackHKO33/HKO-REPO/releases/download/39fef70/tachiyomi-hko.melapelacomics-v1.6.4-signed.apk",
           "iconUrl": "https://raw.githubusercontent.com/BlackHKO33/HKO-REPO/main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BlackHKO33/HKO-REPO/releases/download/34cb426/tachiyomi-hko.melapelacomics-v1.6.4.jar"
+          "jarUrl": "https://github.com/BlackHKO33/HKO-REPO/releases/download/ed00b76/tachiyomi-hko.melapelacomics-v1.6.4.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106004",
@@ -35,7 +35,7 @@
         "resources": {
           "apkUrl": "https://github.com/BlackHKO33/HKO-REPO/releases/download/39fef70/tachiyomi-hko.vcp-v1.6.1-signed.apk",
           "iconUrl": "https://raw.githubusercontent.com/BlackHKO33/HKO-REPO/main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BlackHKO33/HKO-REPO/releases/download/34cb426/tachiyomi-hko.vcp-v1.6.1.jar"
+          "jarUrl": "https://github.com/BlackHKO33/HKO-REPO/releases/download/ed00b76/tachiyomi-hko.vcp-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -56,7 +56,7 @@
         "resources": {
           "apkUrl": "https://github.com/BlackHKO33/HKO-REPO/releases/download/39fef70/tachiyomi-hko.vmp-v1.6.5-signed.apk",
           "iconUrl": "https://raw.githubusercontent.com/BlackHKO33/HKO-REPO/main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/BlackHKO33/HKO-REPO/releases/download/34cb426/tachiyomi-hko.vmp-v1.6.5.jar"
+          "jarUrl": "https://github.com/BlackHKO33/HKO-REPO/releases/download/ed00b76/tachiyomi-hko.vmp-v1.6.5.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106005",
