@@ -6,7 +6,7 @@
     },
     "jar": {
       "name": "tachiyomi-hko.melapelacomics-v1.6.4.jar",
-      "sha256": "9a082efbe9ecd904ceee245144e88c32eef8123b80d6f19259027f2cfa94def5"
+      "sha256": "82e2aaf0d3dd679e877926c94d89f606eecd21f2216658486152b6524a04b9fb"
     }
   },
   "eu.kanade.tachiyomi.extension.hko.vcp": {
@@ -16,7 +16,7 @@
     },
     "jar": {
       "name": "tachiyomi-hko.vcp-v1.6.1.jar",
-      "sha256": "0a3751da1466a132b70cfe3ff87f06fe99b6cc80803ca394fc9e49e00f740b9e"
+      "sha256": "b82f4349cf3cc5318461e38991627aeaff244f4c4bc9be12a5202139b533cb84"
     }
   },
   "eu.kanade.tachiyomi.extension.hko.vmp": {
@@ -26,7 +26,7 @@
     },
     "jar": {
       "name": "tachiyomi-hko.vmp-v1.6.5.jar",
-      "sha256": "da25037d448533cee6fd53fef0a59046d6a197960d8d88f799cc47cd3571bbfc"
+      "sha256": "9c74fdac82fc5d6b2ba61910e1db3fb56920bc0a30e00f5c717cfb37041fd2c8"
     }
   }
 }
