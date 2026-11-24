@@ -2,41 +2,41 @@
   "eu.kanade.tachiyomi.extension.hko.melapelacomics": {
     "apk": {
       "name": "tachiyomi-hko.melapelacomics-v1.6.4-signed.apk",
-      "sha256": "47592f49340c34ac6d5415ec4c2c4664a9e007b204caf3268befa7a6311e32a7"
+      "sha256": "f6d792c19dff4402f0e39e979028a1026f0155b0adb69a2af075ea5aa1f423b5"
     },
     "jar": {
       "name": "tachiyomi-hko.melapelacomics-v1.6.4.jar",
-      "sha256": "2711e13abad1cc22b31653283f4be769914dee33359e94da33407923bd28bda3"
+      "sha256": "9ecc0c1ace66b6a94f94b3dc7b5d49727e99e372f9b4eef9aba644b6a55700c0"
     }
   },
   "eu.kanade.tachiyomi.extension.hko.rule34": {
     "apk": {
       "name": "tachiyomi-hko.rule34-v1.6.1-signed.apk",
-      "sha256": "a3f20e15551e02e2d708969a1609d1f49536774a1682085b7e3ca3308b3614b5"
+      "sha256": "1315077a6196e881545ec423cd4a8ad90ef54cb912f247f8757826ae48ec2488"
     },
     "jar": {
       "name": "tachiyomi-hko.rule34-v1.6.1.jar",
-      "sha256": "92f9fdfa959788d9e00f80edbabd85f93121961bf9fb18bfdfe2b2257084fc5e"
+      "sha256": "d12999b34555bf79fc9418165340b82b53a433e84217e6102e60c345f786c313"
     }
   },
   "eu.kanade.tachiyomi.extension.hko.vcp": {
     "apk": {
       "name": "tachiyomi-hko.vcp-v1.6.1-signed.apk",
-      "sha256": "812c3146e39e0fec74e36d91727567b65d83d7fb492ef513c8b97432f9ded613"
+      "sha256": "ea8045441b5b6200c382792946f17e2d658c6c2584fa36942f8cdd45fab87e5f"
     },
     "jar": {
       "name": "tachiyomi-hko.vcp-v1.6.1.jar",
-      "sha256": "496b10e23b84884d7a9a88e1752db5a634f1689dbda85489fc5602bb70000be0"
+      "sha256": "8f3f40f49446198a058f61db46d7f0c72849a6ef0a2a129a6ab69ff9005dd2b7"
     }
   },
   "eu.kanade.tachiyomi.extension.hko.vmp": {
     "apk": {
       "name": "tachiyomi-hko.vmp-v1.6.5-signed.apk",
-      "sha256": "b4e2d47c90996072a4d3a0473bbdd7941f644a9a32fe95c4bd013a29446ca4ab"
+      "sha256": "b31098e873e6cff69e766c5fb3213190f8762175bac03e886d300325eca75593"
     },
     "jar": {
       "name": "tachiyomi-hko.vmp-v1.6.5.jar",
-      "sha256": "44360a515fdee7fa0ba425914e6cab1c0666de7c065d6d08bef312049f8c96c5"
+      "sha256": "a2a345995ee0d8de30963b8288c845aa664db7aa24e686645c7c8d23a29dd635"
     }
   }
 }
